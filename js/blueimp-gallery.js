@@ -1,16 +1,3 @@
-/*
- * blueimp Gallery JS
- * https://github.com/blueimp/Gallery
- *
- * Copyright 2013, Sebastian Tschan
- * https://blueimp.net
- *
- * Swipe implementation based on
- * https://github.com/bradbirdsall/Swipe
- *
- * Licensed under the MIT license:
- * http://www.opensource.org/licenses/MIT
- */
 
 /* global define, window, document, DocumentTouch */
 
